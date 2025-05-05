@@ -45,20 +45,6 @@ HoppeR addresses common inefficiencies in HR support systems:
 
 ---
 
-## 🖼️ Screenshots
-
-<p float="left">
-  <img src="docs/HoppeR SS 1.png" width="45%" />
-  <img src="docs/HoppeR SS 2.png" width="45%" />
-</p>
-
-<p float="left">
-  <img src="docs/HoppeR SS 3.png" width="45%" />
-  <img src="docs/HoppeR SS 4.png" width="45%" />
-</p>
-
----
-
 ## 🔐 Key Modules
 ## Ticket Management
 - Submit, edit, and resolve tickets
